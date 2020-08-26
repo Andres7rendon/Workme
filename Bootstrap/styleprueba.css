@@ -1,0 +1,9 @@
+.fondo {
+  background: red;
+  padding-block: 20px;
+  margin-top: 34px;
+  text-align: center;
+}
+.borde {
+  border: 1px solid black;
+}
